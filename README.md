@@ -1,4 +1,4 @@
-- 👋 Hi, I’m scotch, I'm a Ph.D. Student in Telecommunications Eng. @Unibo
+- 👋 Hi, I’m Marco, I'm a Ph.D. Student in Telecommunications Eng. @Unibo
 - 👀 I’m interested in Self-Organizing Networks and AI applications to Communication Systems
 - 🌱 I’m currently learning Reinforcement Learning
 - 📫 How to reach me: marco.skocaj@unibo.it
