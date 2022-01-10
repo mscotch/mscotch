@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marco, I'm a Ph.D. Student in Telecommunications Eng. @Unibo
-- 👀 I’m interested in Self-Organizing Networks and AI applications to Communication Systems
+- 👀 I’m interested in Zero-Touch Networks and AI applications to Communication Systems
 - 🌱 I’m currently learning Deep Reinforcement Learning
 - 📫 How to reach me: marco.skocaj@unibo.it
 
