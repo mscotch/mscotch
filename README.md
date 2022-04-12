@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marco, I'm a Ph.D. Student in Telecommunications Eng. @Unibo
 - 👀 I’m interested in Zero-Touch Networks and AI applications to Communication Systems
-- 🌱 I’m currently learning Multi-Agent Deep Reinforcement Learning
+- 🌱 I’m currently learning Bayesian Learning and Multi-Agent Deep Reinforcement Learning
 - 📫 How to reach me: marco.skocaj@unibo.it
 
 <!---
