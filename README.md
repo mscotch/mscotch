@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Marco, Senior Research Engineer on AI/ML for 6G @ Huawei Munich. Previously, Ph.D. student @ University of Bologna, Italy.
-- 📫 How to reach me: skocaj.marco@gmail.com
+### 👋 Hi there, I'm Marco!
+
+* 💼 Senior Research Engineer on AI/ML for 6G @ Huawei Munich
+* 🎓 Former Ph.D. Student @ University of Bologna, Italy.
+* 📬 Reach out at [skocaj.marco@gmail.com](mailto:skocaj.marco@gmail.com)
 
 <!---
 mscotch/mscotch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
