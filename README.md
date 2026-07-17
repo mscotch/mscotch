@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Marco!
 
-* 💼 Senior Research Engineer on AI/ML for 6G @ Huawei Munich
+* 💼 Senior Research Engineer on AI/ML for 6G
 * 🎓 Former Ph.D. Student @ University of Bologna, Italy.
 * 📬 Reach out at [skocaj.marco@gmail.com](mailto:skocaj.marco@gmail.com)
 
